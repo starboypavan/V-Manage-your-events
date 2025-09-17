@@ -18,3 +18,16 @@ function toggleText4() {
     //list4
    const list1=document.getElementById("myList4").classList.toggle("open");
 }
+
+function toggleText5() {
+    //list4
+   const list1=document.getElementById("myList5").classList.toggle("open");
+}
+function toggleText6() {
+    //list4
+   const list1=document.getElementById("myList6").classList.toggle("open");
+}
+function toggleText7() {
+    //list4
+   const list1=document.getElementById("myList7").classList.toggle("open");
+}
